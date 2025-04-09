@@ -22,8 +22,7 @@ currently learning, building, and growing as a software developer.
 
 ### 🛠️ tech i’ve been working with
 
-`react` · `node.js` · `python` · `java` · `typescript`
-always exploring something new 🧃
+`react` · `node.js` · `python` · `java` · `typescript`  
 
 ---
 
