@@ -6,7 +6,7 @@ currently learning, building, and growing as a software developer 🍃
 → actively seeking software engineering opportunities for fall 2025 and 2026.
 
 - incoming software engineering intern @ **autodesk** (summer 2025)  
-- previously @ **intuit** & **monstrARTity**  
+- previously @ **intuit**
 - curious about: web dev · backend · systems · ai tools  
 - always learning, always building
 
