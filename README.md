@@ -1,13 +1,13 @@
 ## hey, i'm faryal 👋
 
 i’m a third year computer science student @ toronto metropolitan university  
-currently learning, building, and growing as a software developer 🍃 
+currently learning, building, and growing as a software engineer 🍃 
 
-→ actively seeking software engineering opportunities for fall 2025 and 2026.
+→ actively seeking swe internship opportunities for f2025 + 2026.
 
-- incoming software engineering intern @ **autodesk** (summer 2025)  
-- previously @ **intuit**
-- curious about: web dev · backend · systems · ai tools  
+- incoming software engineering intern @ **autodesk** working on cloud licensing ☁️
+- previously @ **intuit** where i worked on the design systems team
+- passionate about: web dev, backend, cloud, ai tools  
 - always learning, always building
 
 ---
@@ -27,9 +27,9 @@ currently learning, building, and growing as a software developer 🍃
 
 ---
 
-### 📮 connect - say hi :)
+### 🤝 let's connect! say hi! :)
 
-> 🌐 [portfolio](https://faryalsiddiqui.com)  
-> 💼 [linkedin](https://linkedin.com/in/fsiidd)  
-> ✉️ [email](mailto:faryall.siddiquii@gmail.com)
+✶ [portfolio](https://faryalsiddiqui.com)  
+✶ [linkedin](https://linkedin.com/in/fsiidd)  
+✶ [email](mailto:faryall.siddiquii@gmail.com)
 
